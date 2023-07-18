@@ -8,10 +8,10 @@
   - [ ] D. 改进模型的可解释性
 
 2. Transformer 模型是基于什么理论构建的？
-    A. 递归神经网络（RNN）
-    B. 卷积神经网络（CNN）
-  **C. 注意力机制（Attention）**
-    D. 自组织映射（SOM）
+  - [ ] A. 递归神经网络（RNN）
+  - [ ] B. 卷积神经网络（CNN）
+  - [x] C. 注意力机制（Attention）**
+  - [ ] D. 自组织映射（SOM）
 
 3. GPT 和 BERT 的主要区别是什么？
     A. GPT 是基于 Transformer 的，而 BERT 不是
