@@ -10,14 +10,14 @@
 2. Transformer 模型是基于什么理论构建的？
   - [ ] A. 递归神经网络（RNN）
   - [ ] B. 卷积神经网络（CNN）
-  - [x] C. 注意力机制（Attention）**
+  - [x] C. 注意力机制（Attention）
   - [ ] D. 自组织映射（SOM）
 
 3. GPT 和 BERT 的主要区别是什么？
-    A. GPT 是基于 Transformer 的，而 BERT 不是
-    B. BERT 是基于 Transformer 的，而 GPT 不是
-  **C. GPT 使用了单向自注意力，而 BERT 使用了双向自注意力**
-    D. GPT 和 BERT 在基本结构上没有区别
+- [ ] A. GPT 是基于 Transformer 的，而 BERT 不是
+- [ ] B. BERT 是基于 Transformer 的，而 GPT 不是
+- [x] C. GPT 使用了单向自注意力，而 BERT 使用了双向自注意力
+- [ ] D. GPT 和 BERT 在基本结构上没有区别
 
 4. 在注意力机制中，“Q”、“K”和“V”分别代表什么？
   **A. 查询、密钥和值**
